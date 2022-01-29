@@ -1,4 +1,4 @@
-# This-one-good
+# First Comment
 My first Repository
 
 I just reentered the whole College thing. In a new field. From owner of a carpentry business to 
